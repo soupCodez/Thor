@@ -7,6 +7,7 @@
 Hreidmar is an alternative to well-known [Heimdall](https://github.com/Benjamin-Dobell/Heimdall). \
 Written purely in C#. Uses [LibUsbDotNet](https://github.com/LibUsbDotNet/LibUsbDotNet) for communication. \
 Here is an XDA thread about Thor: [click here](https://forum.xda-developers.com/t/samsung-thor-an-alternative-to-heimdall.4453437/).
+trying to get workflow to build an artifact.
 
 It is completely cross-platform - Windows, Linux and Mac OS are all supported!
 
